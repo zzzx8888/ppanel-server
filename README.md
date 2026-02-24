@@ -57,7 +57,7 @@ proxy services. Built with Go, it emphasizes performance, security, and scalabil
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/perfect-panel/ppanel-server.git
+   git clone https://github.com/zzzx8888/ppanel-server.git
    cd ppanel-server
    ```
 
