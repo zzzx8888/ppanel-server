@@ -4,6 +4,6 @@ package constant
 var (
 	Version     = "unknown version"
 	BuildTime   = "unknown time"
-	Repository  = "https://github.com/perfect-panel/server"
+	Repository  = "https://github.com/zzzx8888/ppanel-server"
 	ServiceName = "ApiService"
 )
